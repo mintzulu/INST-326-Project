@@ -1,2 +1,2 @@
 # INST-326-Project
-Repository for INST 326
+# This project simulates a casino-style card game where the player competes against the dealer using realistic game mechanics. The system allows the player to place bets, make strategic decisions such as hit, stand, double, or split, and automatically calculates results based on casino rules. The simulator updates the player’s balance after each round and records the game history and leaderboard for long-term tracking.
